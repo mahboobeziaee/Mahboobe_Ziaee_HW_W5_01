@@ -1,0 +1,14 @@
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\bin\Debug\net8.0\HW_W5_01.exe
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\bin\Debug\net8.0\HW_W5_01.deps.json
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\bin\Debug\net8.0\HW_W5_01.runtimeconfig.json
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\bin\Debug\net8.0\HW_W5_01.dll
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\bin\Debug\net8.0\HW_W5_01.pdb
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\HW_W5_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\HW_W5_01.AssemblyInfoInputs.cache
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\HW_W5_01.AssemblyInfo.cs
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\HW_W5_01.csproj.CoreCompileInputs.cache
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\HW_W5_01.dll
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\refint\HW_W5_01.dll
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\HW_W5_01.pdb
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\HW_W5_01.genruntimeconfig.cache
+D:\GOL\مکتب شریف\week5\HW_W5_01\HW_W5_01\obj\Debug\net8.0\ref\HW_W5_01.dll

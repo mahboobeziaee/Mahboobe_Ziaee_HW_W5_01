@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|d:\\gol\\maktabsharif\\mahboobe_ziaee_hw_w5_01\\hw_w5_01\\triangleclasses\\isoscelestriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|solutionrelative:hw_w5_01\\triangleclasses\\isoscelestriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|d:\\gol\\maktabsharif\\mahboobe_ziaee_hw_w5_01\\hw_w5_01\\triangleclasses\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|solutionrelative:hw_w5_01\\triangleclasses\\righttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|d:\\gol\\maktabsharif\\mahboobe_ziaee_hw_w5_01\\hw_w5_01\\handelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|solutionrelative:hw_w5_01\\handelinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|d:\\gol\\maktabsharif\\mahboobe_ziaee_hw_w5_01\\hw_w5_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|solutionrelative:hw_w5_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|d:\\gol\\maktabsharif\\mahboobe_ziaee_hw_w5_01\\hw_w5_01\\shapeclasses\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|solutionrelative:hw_w5_01\\shapeclasses\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|d:\\gol\\maktabsharif\\mahboobe_ziaee_hw_w5_01\\hw_w5_01\\triangleclasses\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28D7138-4F2D-4055-A27C-FF5DCBF7BC52}|HW_W5_01\\HW_W5_01.csproj|solutionrelative:hw_w5_01\\triangleclasses\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandelInput.cs",
+              "DocumentMoniker": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\HandelInput.cs",
+              "RelativeDocumentMoniker": "HW_W5_01\\HandelInput.cs",
+              "ToolTip": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\HandelInput.cs",
+              "RelativeToolTip": "HW_W5_01\\HandelInput.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAGEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:25:16.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IsoscelesTriangle.cs",
+              "DocumentMoniker": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\TriangleClasses\\IsoscelesTriangle.cs",
+              "RelativeDocumentMoniker": "HW_W5_01\\TriangleClasses\\IsoscelesTriangle.cs",
+              "ToolTip": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\TriangleClasses\\IsoscelesTriangle.cs",
+              "RelativeToolTip": "HW_W5_01\\TriangleClasses\\IsoscelesTriangle.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:13:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RightTriangle.cs",
+              "DocumentMoniker": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\TriangleClasses\\RightTriangle.cs",
+              "RelativeDocumentMoniker": "HW_W5_01\\TriangleClasses\\RightTriangle.cs",
+              "ToolTip": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\TriangleClasses\\RightTriangle.cs",
+              "RelativeToolTip": "HW_W5_01\\TriangleClasses\\RightTriangle.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:11:26.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\TriangleClasses\\Triangle.cs",
+              "RelativeDocumentMoniker": "HW_W5_01\\TriangleClasses\\Triangle.cs",
+              "ToolTip": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\TriangleClasses\\Triangle.cs",
+              "RelativeToolTip": "HW_W5_01\\TriangleClasses\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:47:28.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\ShapeClasses\\Shape.cs",
+              "RelativeDocumentMoniker": "HW_W5_01\\ShapeClasses\\Shape.cs",
+              "ToolTip": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\ShapeClasses\\Shape.cs",
+              "RelativeToolTip": "HW_W5_01\\ShapeClasses\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:34:06.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\Program.cs",
+              "RelativeDocumentMoniker": "HW_W5_01\\Program.cs",
+              "ToolTip": "D:\\GOL\\MaktabSharif\\Mahboobe_Ziaee_HW_W5_01\\HW_W5_01\\Program.cs",
+              "RelativeToolTip": "HW_W5_01\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:30:25.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
